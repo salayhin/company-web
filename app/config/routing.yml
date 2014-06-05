@@ -1,0 +1,4 @@
+cms_page:
+    resource: "@CmsPageBundle/Resources/config/routing.yml"
+    prefix:   /
+
